@@ -10,17 +10,11 @@ According to visualization concepts described by Dr. Tamara Munzner (UBC), linke
 
 
 
-    Reference:
+Reference:
 
-        Alaska Fisheries Science Center https://www.afsc.noaa.gov/Education/Activities/PDFs/NFS_K-6_Sept2013_L5.pdf
-        Gallon S, Bailleul F, Charrassin J, Guinet C, Bost C, Handrich Y et al. Identifying foraging events in deep diving southern elephant seals, Mirounga leonina, using acceleration data loggers. Deep Sea Research Part II: Topical Studies in Oceanography [Internet]. 2013;88-89:14-22. Available from: http://www.cebc.cnrs.fr/publipdf/2013/GDSR88_2013.pdf
-        Le Boeuf, Burney J., and Richard M. Laws, editors Elephant Seals: Population Ecology, Behavior, and Physiology. Berkeley: University of California Press, c1994 1994. http://ark.cdlib.org/ark:/13030/ft7b69p131/
+> Alaska Fisheries Science Center https://www.afsc.noaa.gov/Education/Activities/PDFs/NFS_K-6_Sept2013_L5.pdf
+> Gallon S, Bailleul F, Charrassin J, Guinet C, Bost C, Handrich Y et al. Identifying foraging events in deep diving southern elephant seals, Mirounga leonina, using acceleration data loggers. Deep Sea Research Part II: Topical Studies in Oceanography [Internet]. 2013;88-89:14-22. Available from: http://www.cebc.cnrs.fr/publipdf/2013/GDSR88_2013.pdf
+> Le Boeuf, Burney J., and Richard M. Laws, editors Elephant Seals: Population Ecology, Behavior, and Physiology. Berkeley: University of California Press, c1994 1994. http://ark.cdlib.org/ark:/13030/ft7b69p131/
 
     
 
-
-
-| URL                                         | Description                 |
-|---------------------------------------------|-----------------------------|
-| https://peter0083.shinyapps.io/sealpath/    | deployed shiny app          |
-| https://peter0083.shinyapps.io/1hzsealpath/ | deployed shiny app 1Hz ver. |
